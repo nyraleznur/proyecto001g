@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78b99337-0b51-443c-aec3-aaaa3c5165e1" name="Changes" comment="segundo">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="78b99337-0b51-443c-aec3-aaaa3c5165e1" name="Changes" comment="tercer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660356607347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tercer">
+      <created>1660356704381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660356704381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +80,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PRIMER COMMIT" />
     <MESSAGE value="segundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="segundo" />
+    <MESSAGE value="tercer" />
+    <option name="LAST_COMMIT_MESSAGE" value="tercer" />
   </component>
 </project>
